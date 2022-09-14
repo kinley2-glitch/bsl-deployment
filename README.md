@@ -13,9 +13,11 @@ Initialize
 ## Step 3
 Create the directory and start coding. The codes can be cloned from github.
 
+
 ## To get started with the project.
 ```bash
    git clone https://github.com/kinley2-glitch/jsl-hksl-deployment
 ```
+
 ## Authors
 - [kinley2-glitch](https://github.com/kinley2-glitch)
