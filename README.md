@@ -1,5 +1,5 @@
-# jsl-hksl-deployment
- This is a simple web application developed in ExpressJS with NodeJS for deploying pre-trained jsl-hksl modal.
+# bsl-deployment
+ This is a simple web application developed in ExpressJS with NodeJS for deploying pre-trained bsl modal.
 
 ## Step 1
 Initialize
@@ -17,7 +17,7 @@ Create the directory and start coding. The codes can be cloned from github.
 
 ## To get started with the project.
 ```bash
-   git clone https://github.com/kinley2-glitch/jsl-hksl-deployment
+   git clone https://github.com/kinley2-glitch/bsl-deployment
 ```
 
 ## Authors
